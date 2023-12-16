@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: de420200603ca6d438e1ce495bf3b6d5
+  - enabled: 1
+    path: Assets/Scenes/Dice/DiceMainScene.unity
+    guid: fd6047ff85b85c04c98cdefaa8b16ab2
+  - enabled: 1
+    path: Assets/Scenes/Dice/Co-opScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Dice/DiceMultiScene.unity
+    guid: c2fc0b9f2b9001d41bc9855e4860eed3
+  - enabled: 1
+    path: Assets/Scenes/Dice/EndScene.unity
+    guid: bb4f12a9a168461438ea5ee8000dede8
+  - enabled: 1
+    path: Assets/Scenes/Dice/DiceMultiScene.unity
+    guid: c2fc0b9f2b9001d41bc9855e4860eed3
+  - enabled: 1
+    path: Assets/Scenes/card/LobbyScene.unity
+    guid: d6206b2bc52999c4386b51e50f47c8fc
+  - enabled: 1
+    path: Assets/Scenes/razer/MenuScene.unity
+    guid: 48117f956c75f9641b59205d6c9d9ddc
+  - enabled: 1
+    path: Assets/Scenes/razer/multi.unity
+    guid: 2020a764048015c4dab8f368f6f92642
+  - enabled: 1
+    path: Assets/Scenes/card/MainScene.unity
+    guid: 597ea467f81dc4a91b6851f03dd15a9e
+  - enabled: 1
+    path: Assets/Scenes/card/MultiScene.unity
+    guid: eede36228d5ee694c9c901cc3da6a780
+  m_configObjects: {}

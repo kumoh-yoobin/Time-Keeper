@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Dice
+  - Set
+  - Score
+  - Button
+  - RotatePlate
+  - Laser
+  - white_laser
+  - pos
+  - MovePlate
+  - black_laser
+  - black_king
+  - black_tri_1
+  - black_tri_2
+  - black_tri_3
+  - white_tri_1
+  - white_tri_2
+  - white_tri_3
+  - white_splate
+  - white_squre
+  - white_king
+  - black_splate
+  - black_squre
+  - wall
+  - white_tri_0
+  - black_tri_0
+  - white_tri_4
+  - black_tri_4
+  - white_squre_1
+  - black_squre_1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
